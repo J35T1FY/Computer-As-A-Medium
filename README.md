@@ -1,3 +1,3 @@
 # This is a repo Computer as a Medium
-# Group Name:
-# Group Members:
+# Group Name: Candyland
+# Group Members: Kyle Cawthon (1), Joel Cabigting (1)

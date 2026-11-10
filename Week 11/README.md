@@ -1,5 +1,5 @@
 # Week 11
-### shared unity project
+### video link: https://youtu.be/ptgxY2pFHyQ
 ## NEW/NON-PROVIDED SCRIPTS:
 ### HealPlayer.cs - Joel Cabigting (for task 1: healthpack)
 ### PlayerMana.cs - Kyle Cawthon (for task 3: mana)
